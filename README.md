@@ -8,7 +8,7 @@ I am a software and firmware engineer who loves coding and solving problems.
 * ✉️  You can contact me at [levihung0713@gmail.com](mailto:levihung0713@gmail.com)
 * 🧠  I'm learning Algorithms and System Design
 * 🤝  I'm open to collaborating on Project
-Here is my portfolio: https://bit.ly/4gUXPt2
+* Here is my portfolio: https://bit.ly/4gUXPt2
 
 ### Skills  
 
